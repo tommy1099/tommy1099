@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Networking skills with a touch of Cybersecurity<br>👯 I’m looking to collaborate on anything<br>🤝 I’m looking for help with polishing my skills<br>🌱 I’m currently learning React in the front-end field and the CCNP in the networking field<br>💬 Ask me about anything related or non-related<br>⚡ Fun fact learned C++ to enter the game development industry, and when everything was coming together, I found out that I don't like building games
+🔭 I’m currently working on my Networking skills with a touch of Cybersecurity<br>👯 I’m looking to collaborate on anything<br>🤝 I’m looking for help with polishing my skills<br>🌱 I’m currently learning React in the front-end field and the CCNP in the networking field<br>💬 Ask me about anything related or non-related<br>⚡ Fun fact learned C++ to enter the game development industry, and when everything was coming together, I found out that I don't like building games
 
 
 ## 🌐 Socials:
